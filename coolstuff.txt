@@ -1,0 +1,4 @@
+Advanced git Trainging exercise on Feature Branching
+Two or three branches for a simpler model
+Git is a tool allowing many modes of work
+
